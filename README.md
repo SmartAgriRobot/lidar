@@ -32,7 +32,7 @@ python3 main.py
 ## Video Guide
 [SmartAgriRobot Channel](https://www.youtube.com/channel/UCOgiOXJ43hnMZIsxGAZKoPQ)
 ## License and Credits
-The Area Multispectral is released under the MIT license.
+The Lidar is released under the MIT license.
 
 ## Disclaimer
 This source and the whole package comes without warranty. It may or may not harm your computer or cell phone. Please use with care. Any damage cannot be related back to the author. The source has been tested on a virtual environment and scanned for viruses and has passed all tests.
