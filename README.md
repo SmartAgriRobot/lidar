@@ -31,6 +31,16 @@ python3 main.py
 ```
 ## Video Guide
 [SmartAgriRobot Channel](https://www.youtube.com/channel/UCOgiOXJ43hnMZIsxGAZKoPQ)
+
+## Folder structure
+| ###Folder Name  | ###detail  |
+| :------------ |:---------------|
+| 3d            | STL file part for 3d printer |
+| clip          | Operation video clip       |
+| images        | Images of prototype        |
+| pdf           | Specification document        |
+| sourcecode    | Python source code        |
+
 ## License and Credits
 The Lidar is released under the MIT license.
 
