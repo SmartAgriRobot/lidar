@@ -33,7 +33,7 @@ python3 main.py
 [SmartAgriRobot Channel](https://www.youtube.com/channel/UCOgiOXJ43hnMZIsxGAZKoPQ)
 
 ## Folder structure
-| ###Folder Name  | ###detail  |
+| Folder Name  | detail  |
 | :------------ |:---------------|
 | 3d            | STL file part for 3d printer |
 | clip          | Operation video clip       |
